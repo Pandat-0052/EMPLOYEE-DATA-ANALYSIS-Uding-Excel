@@ -6,16 +6,22 @@ Welcome to the Employee Data Project repository! This project is all about analy
 
 In this project, we've conducted thorough analysis and visualization of our employee data, focusing on key metrics such as performance, engagement, and retention. Our goal is to better understand our workforce and identify opportunities for improvement.
 
+![Preview](https://github.com/Pandat-0052/EMPLOYEE-DATA-ANALYSIS-Using-Excel/blob/main/Overview.JPG)
+
+## Analysis Methodology:
+
+We will utilize Excel, PivotTables and  PivotCharts for data analysis.
+
+
+
 ## Contents
 
-- `data/`: Contains the raw data files used in the analysis.
-- `analysis/`: Includes Jupyter notebooks and scripts used for data analysis and visualization.
-- `results/`: Contains summary reports, findings, and visualizations generated from the analysis.
-- `docs/`: Supplementary documentation, such as project overview, data dictionaries, and methodology.
+- [data](https://github.com/Pandat-0052/EMPLOYEE-DATA-ANALYSIS-Using-Excel/blob/main/Employees_Engagement%20-%20Raw.xlsx): Contains the raw data files used in the analysis.
+- [results](https://github.com/Pandat-0052/EMPLOYEE-DATA-ANALYSIS-Using-Excel/blob/main/Employees_Engagement.pdf): Contains findings, and visualizations generated from the analysis.
 
 ## Getting Started
 
-To explore the project findings and insights, simply download or clone this repository to your local machine. You can then navigate to the `results/` directory to view the summary reports and visualizations.
+To explore the project findings and insights, simply download or clone this repository to your local machine. You can then navigate to the [results](https://github.com/Pandat-0052/EMPLOYEE-DATA-ANALYSIS-Using-Excel/blob/main/Employees_Engagement.pdf) directory to view the summary reports and visualizations.
 
 ## Contributing
 
